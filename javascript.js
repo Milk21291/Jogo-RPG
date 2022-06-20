@@ -165,6 +165,18 @@ var carta1 = {
     }
   };
   // --------------------------
+var carta15 = {
+    nome: "Zeus",
+    imagem:
+      "https://1.bp.blogspot.com/-c7JgV7_oDbo/YJcnRIaevRI/AAAAAAAAWZA/xAaxhcdUEBIrhh31oNpyFRLYFBDMXs4HgCLcBGAsYHQ/w1200-h630-p-k-no-nu/agatan-g-zeus.jpg",
+    atributos: {
+      ataque: 100,
+      defesa: 100,
+      magia: 100,
+      velocidade: 100
+    }
+  };
+  // --------------------------
   var listaCartas = [
     carta1,
     carta2,
@@ -179,7 +191,8 @@ var carta1 = {
     carta11,
     carta12,
     carta13,
-    carta14
+    carta14,
+    carta15
   ];
   
   var pontosJogador = 0;
